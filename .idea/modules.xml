@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/it-websocket/it-websocket.iml" filepath="$PROJECT_DIR$/it-websocket/it-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itha-websocket/itha-websocket.iml" filepath="$PROJECT_DIR$/itha-websocket/itha-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meself-websocket/meself-websocket.iml" filepath="$PROJECT_DIR$/meself-websocket/meself-websocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-websocket/springboot-websocket.iml" filepath="$PROJECT_DIR$/springboot-websocket/springboot-websocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sww.iml" filepath="$PROJECT_DIR$/.idea/sww.iml" />
     </modules>
